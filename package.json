@@ -1,0 +1,8 @@
+{
+  "name": "postcss-plugin-inset",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A library to convert inset to left,top,right,bottom",
+  "main": "index.js",
+  "sideEffects": false
+}
